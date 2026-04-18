@@ -78,8 +78,17 @@ GITHUB_TOKEN=...
 
 ## เริ่มปฏิบัติภารกิจ
 
+### Quick Start (แบบไม่ต้องติดตั้ง)
+
 ```bash
-npm start
+npx bangsearch
+```
+
+### การติดตั้งลงในเครื่อง
+
+```bash
+npm install -g bangsearch
+bangsearch
 ```
 
 **DEEP RESEARCH OS** — Intelligence at Scale, Autonomy without Limits.

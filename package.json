@@ -4,12 +4,12 @@
   "description": "AI-powered autonomous research and codebase analysis platform",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JonusNattapong/Reverse-Engineer.git"
+    "url": "git+https://github.com/JonusNattapong/DeepResearch.git"
   },
   "bugs": {
-    "url": "https://github.com/JonusNattapong/Reverse-Engineer/issues"
+    "url": "https://github.com/JonusNattapong/DeepResearch/issues"
   },
-  "homepage": "https://github.com/JonusNattapong/Reverse-Engineer#readme",
+  "homepage": "https://github.com/JonusNattapong/DeepResearch#readme",
   "main": "index.js",
   "bin": {
     "bangsearch": "index.js"

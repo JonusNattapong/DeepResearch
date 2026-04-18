@@ -88,8 +88,17 @@ GITHUB_TOKEN=...
 
 ## Getting Started
 
+### Quick Start (No installation)
+
 ```bash
-npm start
+npx bangsearch
+```
+
+### Local Installation
+
+```bash
+npm install -g bangsearch
+bangsearch
 ```
 
 **DEEP RESEARCH OS** — Intelligence at Scale, Autonomy without Limits.
