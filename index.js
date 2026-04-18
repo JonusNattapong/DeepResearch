@@ -7,7 +7,7 @@ const figures = require("figures");
 
 async function main() {
   console.clear();
-  console.log(chalk.bold.hex("#7B61FF")(`\n   ${figures.star} DEEP RESEARCH OPERATING SYSTEM ${figures.star}\n`));
+  console.log(chalk.bold.hex("#7B61FF")(`\n   ${figures.star} BANGSEARCH OPERATING SYSTEM ${figures.star}\n`));
 
   const { mode } = await inquirer.prompt([
     {
